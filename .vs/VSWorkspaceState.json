@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\middleware",
+    "\\models",
+    "\\public",
+    "\\routers"
+  ],
+  "SelectedNode": "\\routers\\user_router.js",
+  "PreviewInSolutionExplorer": false
+}
